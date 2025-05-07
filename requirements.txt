@@ -1,0 +1,6 @@
+langchain_groq
+pyarrow==14.0.1
+groq
+streamlit
+python-dotenv
+langchain_core
